@@ -13,7 +13,7 @@ I'm a Master's student at UIUC with a passion for robotics, quantum computing, a
 - 🌱 Always learning something new  
 
 ### Projects
-Here is my previous [https://yuliearad1@github.io](https://yuliearad1.github.io/)
+Here is my previous [website](https://yuliearad1.github.io/)
 
 Will be updating this slowly!
 

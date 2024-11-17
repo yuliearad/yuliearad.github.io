@@ -1,3 +1,6 @@
 title: "Yulie's Website"
 description: "This is my personal website"
 theme: jekyll-theme-minimal
+
+header_pages: 
+  - about.md

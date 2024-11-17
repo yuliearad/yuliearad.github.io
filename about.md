@@ -8,7 +8,7 @@ I'm a Master's student at UIUC with a passion for robotics, quantum computing, a
 ### Interests
 - 🚀 Robotics and motion planning
 - ⚛️ Quantum Computing 
-- 💻 Programming (C++, Python)  
+- 💻 Programming 
 - 📚 Reading 
 - 🌱 Always learning something new  
 

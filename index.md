@@ -17,7 +17,7 @@ Will be updating this slowly!
 
 ### Contact Me
 Feel free to reach out!  
-- Email: yulie.arad@gmail.com
-- LinkedIn: https://www.linkedin.com/in/yuliearad/
-- GitHub: https://github.com/yuliearad
+- Email: [Your Email](yulie.arad@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yuliearad/)
+- GitHub: [GitHub](https://github.com/yuliearad)
 

@@ -1,3 +1,5 @@
+![Me](websitephoto.heic)
+
 ### About Me
 I'm a master's student in computer science at UIUC with a passion for robotics, quantum computing, and algorithms. I graduated from UIUC with degrees in Computer Science and Mathematics in May 2024. 
 

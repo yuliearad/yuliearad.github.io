@@ -9,7 +9,8 @@ My passion for education runs deeper than just my personal love for learning. Af
 - 🚀 Robotics and motion planning
 - ⚛️ Quantum Computing 
 - 💻 Programming 
-- 📚 Reading 
+- 📚 Reading
+- ♟️ Chess (play me! @yulieearad)
 - 🌱 Always learning something new (currently: crocheting) 
 
 ### Projects
